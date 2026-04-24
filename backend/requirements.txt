@@ -1,0 +1,11 @@
+numpy
+matplotlib
+scikit-learn
+folium
+fastapi
+uvicorn
+sqlalchemy
+celery
+redis
+pydantic
+httpx

@@ -1,0 +1,632 @@
+{
+    "convergence": [
+        {
+            "iteration": 0,
+            "ga": 912.74,
+            "aco": 507.87,
+            "hybrid": 507.87
+        },
+        {
+            "iteration": 1,
+            "ga": 804.24,
+            "aco": 423.64,
+            "hybrid": 423.64
+        },
+        {
+            "iteration": 2,
+            "ga": 804.24,
+            "aco": 423.64,
+            "hybrid": 423.64
+        },
+        {
+            "iteration": 3,
+            "ga": 804.24,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 4,
+            "ga": 770.02,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 5,
+            "ga": 770.02,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 6,
+            "ga": 769.78,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 7,
+            "ga": 769.78,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 8,
+            "ga": 750.91,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 9,
+            "ga": 750.91,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 10,
+            "ga": 750.91,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 11,
+            "ga": 750.91,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 12,
+            "ga": 750.91,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 13,
+            "ga": 750.91,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 14,
+            "ga": 750.91,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 15,
+            "ga": 750.91,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 16,
+            "ga": 750.91,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 17,
+            "ga": 750.91,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 18,
+            "ga": 750.91,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 19,
+            "ga": 750.91,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 20,
+            "ga": 750.91,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 21,
+            "ga": 750.91,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 22,
+            "ga": 750.91,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 23,
+            "ga": 750.91,
+            "aco": 407.45,
+            "hybrid": 407.45
+        },
+        {
+            "iteration": 24,
+            "ga": 750.91,
+            "aco": 403.25,
+            "hybrid": 403.25
+        },
+        {
+            "iteration": 25,
+            "ga": 748.78,
+            "aco": 403.25,
+            "hybrid": 403.25
+        },
+        {
+            "iteration": 26,
+            "ga": 748.78,
+            "aco": 403.25,
+            "hybrid": 403.25
+        },
+        {
+            "iteration": 27,
+            "ga": 733.52,
+            "aco": 403.25,
+            "hybrid": 403.25
+        },
+        {
+            "iteration": 28,
+            "ga": 733.52,
+            "aco": 403.25,
+            "hybrid": 403.25
+        },
+        {
+            "iteration": 29,
+            "ga": 730.2,
+            "aco": 403.25,
+            "hybrid": 403.25
+        },
+        {
+            "iteration": 30,
+            "ga": 730.2,
+            "aco": 403.25,
+            "hybrid": 403.25
+        },
+        {
+            "iteration": 31,
+            "ga": 712.98,
+            "aco": 403.25,
+            "hybrid": 403.25
+        },
+        {
+            "iteration": 32,
+            "ga": 712.98,
+            "aco": 403.25,
+            "hybrid": 403.25
+        },
+        {
+            "iteration": 33,
+            "ga": 704.2,
+            "aco": 403.25,
+            "hybrid": 403.25
+        },
+        {
+            "iteration": 34,
+            "ga": 702.79,
+            "aco": 403.25,
+            "hybrid": 403.25
+        },
+        {
+            "iteration": 35,
+            "ga": 702.79,
+            "aco": 403.25,
+            "hybrid": 403.25
+        },
+        {
+            "iteration": 36,
+            "ga": 702.79,
+            "aco": 403.25,
+            "hybrid": 403.25
+        },
+        {
+            "iteration": 37,
+            "ga": 702.79,
+            "aco": 403.25,
+            "hybrid": 403.25
+        },
+        {
+            "iteration": 38,
+            "ga": 702.79,
+            "aco": 403.25,
+            "hybrid": 403.25
+        },
+        {
+            "iteration": 39,
+            "ga": 702.79,
+            "aco": 403.25,
+            "hybrid": 403.25
+        },
+        {
+            "iteration": 40,
+            "ga": 702.79,
+            "aco": 403.25,
+            "hybrid": 403.25
+        },
+        {
+            "iteration": 41,
+            "ga": 702.79,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 42,
+            "ga": 702.79,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 43,
+            "ga": 702.79,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 44,
+            "ga": 702.79,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 45,
+            "ga": 692.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 46,
+            "ga": 692.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 47,
+            "ga": 692.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 48,
+            "ga": 692.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 49,
+            "ga": 692.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 50,
+            "ga": 692.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 51,
+            "ga": 692.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 52,
+            "ga": 692.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 53,
+            "ga": 692.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 54,
+            "ga": 692.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 55,
+            "ga": 692.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 56,
+            "ga": 692.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 57,
+            "ga": 692.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 58,
+            "ga": 692.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 59,
+            "ga": 692.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 60,
+            "ga": 692.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 61,
+            "ga": 692.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 62,
+            "ga": 692.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 63,
+            "ga": 674.41,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 64,
+            "ga": 672.68,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 65,
+            "ga": 672.68,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 66,
+            "ga": 656.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 67,
+            "ga": 656.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 68,
+            "ga": 656.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 69,
+            "ga": 656.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 70,
+            "ga": 656.8,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 71,
+            "ga": 653.05,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 72,
+            "ga": 653.05,
+            "aco": 401.99,
+            "hybrid": 401.99
+        },
+        {
+            "iteration": 73,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 74,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 75,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 76,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 77,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 78,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 79,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 80,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 81,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 82,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 83,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 84,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 85,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 86,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 87,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 88,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 89,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 90,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 91,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 92,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 93,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 94,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 95,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 96,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 97,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 98,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        },
+        {
+            "iteration": 99,
+            "ga": 653.05,
+            "aco": 401.82,
+            "hybrid": 401.82
+        }
+    ],
+    "costs": [
+        {
+            "name": "Baseline",
+            "distance": 1088.77
+        },
+        {
+            "name": "GA",
+            "distance": 653.05
+        },
+        {
+            "name": "ACO",
+            "distance": 401.82
+        },
+        {
+            "name": "Hybrid",
+            "distance": 399.62
+        }
+    ],
+    "pruning": [
+        {
+            "name": "Active/Priority",
+            "value": 8
+        },
+        {
+            "name": "Filtered",
+            "value": 12
+        }
+    ]
+}
